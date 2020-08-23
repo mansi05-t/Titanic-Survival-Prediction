@@ -1,5 +1,4 @@
 # Titanic-Survival-Prediction
-![](images/https://drive.google.com/file/d/1e4euImuRG5LtwGBmILlAL7odDObnmu9r/view?usp=sharing)
 
 # The Challenge
 
